@@ -1,0 +1,45 @@
+div#printableArea {
+    border: solid;
+}
+
+table.form {
+    border-bottom: solid!important;
+    border-width: thin!important;
+}
+
+tr.th {
+    border-left: solid!important;
+}
+
+textarea {
+    border: none;
+    border-right: solid;
+    border-width: thin;
+    resize: none;
+}
+
+input[type="text"] {
+    border: none!important;
+    border-bottom: solid!important;
+    border-width: thin!important;
+    float: right!important;
+}
+
+tr.notice {
+    font-size: 10px;
+    font-family: sans-serif;
+}
+
+td.foot {
+    display: block!important;
+    margin-left: 185px!important;
+}
+
+label {
+    margin-left: 66px;
+}
+
+img {
+    height: 55px!important;
+    margin-left: 220px!important;
+}
